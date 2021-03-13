@@ -1,5 +1,7 @@
 # WeLoveMovies_Backend [View Api](https://we-love-movies-backend-zeta.vercel.app/movies)
-> Set up a database and built specific routes so that users can gain access to data about movies, theaters, and reviews.
+## Click here to check out the full project [We Love Movies](https://we-love-movies-frontend.vercel.app/).
+
+> Engineered a database and RESTful API with CRUD operations allowing users to access data about the latest movies, theaters, and reviews.
 
 ### Routes
 - /movies
@@ -21,4 +23,3 @@
 - Wrote database migrations using Knex's migration tool
 - Deployed to Vercel with matching front end.
 
-Click here to check out the full project [We Love Movies](https://we-love-movies-frontend.vercel.app/).
