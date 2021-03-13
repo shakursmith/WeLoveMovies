@@ -10,6 +10,7 @@
 - /theaters
 - /reviews [PUT/DELETE]
 
+### Tasks
 - Built an API following RESTful design principles
 - Utilizied common middleware packages
 - Provided access to relevant information through route and query parameters
