@@ -10,15 +10,15 @@
 - /theaters
 - /reviews [PUT/DELETE]
 
-Built an API following RESTful design principles
-Utilizied common middleware packages
-Provided access to relevant information through route and query parameters
-Created an error handler for the case where a route doesn't exist
-Customized knexfile.js file for staging
-Used Knex to write database queries, completeing CRUD routes in an Express server
-Utilized joined and nested data with Knex (treeize)
-Wrote database migrations using Knex's migration tool
-Deployed to Vercel with matching front end.
+- Built an API following RESTful design principles
+- Utilizied common middleware packages
+- Provided access to relevant information through route and query parameters
+- Created an error handler for the case where a route doesn't exist
+- Customized knexfile.js file for staging
+- Used Knex to write database queries, completeing CRUD routes in an Express server
+- Utilized joined and nested data with Knex (treeize)
+- Wrote database migrations using Knex's migration tool
+- Deployed to Vercel with matching front end.
 
 Click here to check out the full project [We Love Movies](https://we-love-movies-frontend.vercel.app/).
 
